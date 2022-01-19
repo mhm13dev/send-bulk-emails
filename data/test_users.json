@@ -1,0 +1,17 @@
+[
+  {
+    "email": "abc1@gmail.com",
+    "mail_sent": true,
+    "messageId": "<2f3eb184-d29e-f854-6c2b-a82d1b8be4ce@foo.com>"
+  },
+  {
+    "email": "abc2@gmail.com",
+    "mail_sent": true,
+    "messageId": "<b4ac99d1-7b1b-4236-4706-4bec7b8fb6c5@foo.com>"
+  },
+  { "email": "abc3@gmail.com" },
+  { "email": "abc4@gmail.com" },
+  { "email": "abc5@gmail.com" },
+  { "email": "abc6@gmail.com" },
+  { "email": "abc7@gmail.com" }
+]
